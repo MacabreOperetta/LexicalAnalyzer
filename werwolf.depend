@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1526505224 source:c:\users\macabre operetta\desktop\werwolf\main.c
+	<stdio.h>
+	<stdlib.h>
+
